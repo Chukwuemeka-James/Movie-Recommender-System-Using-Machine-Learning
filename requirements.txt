@@ -1,0 +1,7 @@
+### dependency
+streamlit
+pandas
+numpy
+scikit-learn
+nltk
+-e . 
